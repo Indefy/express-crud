@@ -1,0 +1,8 @@
+{"level":"error","message":"Error writing to users file: users.push is not a function","timestamp":"2024-03-14T14:52:09.445Z"}
+{"level":"error","message":"Error reading users file: Cannot set headers after they are sent to the client","timestamp":"2024-03-14T14:56:16.788Z"}
+{"level":"error","message":"Error writing to users file: users.push is not a function","timestamp":"2024-03-14T14:58:20.507Z"}
+{"level":"error","message":"Error writing to users file: users.push is not a function","timestamp":"2024-03-14T14:58:36.445Z"}
+{"level":"error","message":"Error reading users file: id is not defined","timestamp":"2024-03-17T13:02:35.561Z"}
+{"level":"error","message":"Error reading users file: Cannot set headers after they are sent to the client","timestamp":"2024-03-17T13:06:27.636Z"}
+{"level":"error","message":"Error reading users file: Cannot set headers after they are sent to the client","timestamp":"2024-03-17T13:06:50.708Z"}
+{"level":"error","message":"Error reading users file: Cannot set headers after they are sent to the client","timestamp":"2024-03-17T16:01:50.800Z"}
